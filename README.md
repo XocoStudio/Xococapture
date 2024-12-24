@@ -10,12 +10,7 @@ Xococapture es una herramienta de captura de pantalla y dibujo libre desarrollad
 - **Soporte para atajos de teclado** para cambiar el color y el grosor del trazo.
 - **Ventana flotante minimalista** con emojis para fácil acceso a las funciones principales.
 
-## Requisitos
-- Python 3.8 o superior
-- mss (Captura de pantalla)
-- Pillow (Manipulación de imágenes)
-- pywin32 (Integración con el portapapeles de Windows)
-- tkinter (Interfaz gráfica)
+
 
 ### Video de demostración
 [Ver video de demostración](https://www.youtube.com/watch?v=i-6FQpiGJdk&t=2s)
